@@ -1,0 +1,9 @@
+[2019-06-10 16:55:44.698] [cli] [info] main {"_":[],"diff":false,"add":false,"goto":false,"new-window":false,"reuse-window":false,"wait":false,"version":false,"help":false,"list-extensions":false,"show-versions":false,"verbose":false,"status":false,"prof-modules":false,"prof-startup":false,"disable-extensions":false,"disable-gpu":false,"logExtensionHostCommunication":false,"skip-getting-started":false,"skip-release-notes":false,"sticky-quickopen":false,"disable-restore-windows":false,"disable-telemetry":false,"disable-updates":false,"disable-crash-reporter":false,"skip-add-to-recently-opened":false,"unity-launch":false,"open-url":false,"nolazy":false,"issue":false,"file-write":false,"file-chmod":false,"driver-verbose":false,"force":false,"prof-code-loading":false,"nodeless":false,"install-extension":"mushan.vscode-paste-image"}
+[2019-06-10 16:55:44.744] [cli] [info] Scanned user extensions: 26
+[2019-06-10 16:55:45.501] [cli] [info] Installing extension: mushan.vscode-paste-image
+[2019-06-10 16:55:45.524] [cli] [info] Scanned user extensions: 26
+[2019-06-10 16:55:48.431] [cli] [info] Downloaded extension: mushan.vscode-paste-image /tmp/7b579a9a-4e4e-47e2-9efa-e9f251b3d123
+[2019-06-10 16:55:48.874] [cli] [info] Extracted extension to /home/yosh/.vscode-oss/extensions/.mushan.vscode-paste-image-1.0.4: mushan.vscode-paste-image
+[2019-06-10 16:55:48.874] [cli] [info] Renamed to /home/yosh/.vscode-oss/extensions/mushan.vscode-paste-image-1.0.4
+[2019-06-10 16:55:48.875] [cli] [info] Installation completed. mushan.vscode-paste-image
+[2019-06-10 16:55:48.931] [cli] [info] Extensions installed successfully: mushan.vscode-paste-image

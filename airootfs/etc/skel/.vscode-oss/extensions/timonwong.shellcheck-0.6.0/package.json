@@ -1,0 +1,112 @@
+{
+	"name": "shellcheck",
+	"displayName": "shellcheck",
+	"description": "An extension to use shellcheck in vscode",
+	"version": "0.6.0",
+	"publisher": "timonwong",
+	"categories": [
+		"Programming Languages",
+		"Linters"
+	],
+	"homepage": "https://github.com/timonwong/vscode-shellcheck",
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/timonwong/vscode-shellcheck.git"
+	},
+	"engines": {
+		"vscode": "^1.25.0"
+	},
+	"activationEvents": [
+		"onLanguage:shellscript"
+	],
+	"main": "./out/src/extension",
+	"contributes": {
+		"configuration": {
+			"title": "ShellCheck",
+			"properties": {
+				"shellcheck.enable": {
+					"type": "boolean",
+					"default": true,
+					"description": "Whether shellcheck is enabled or not."
+				},
+				"shellcheck.executablePath": {
+					"type": "string",
+					"default": "shellcheck",
+					"description": "Path to the shellcheck executable."
+				},
+				"shellcheck.run": {
+					"type": "string",
+					"enum": [
+						"onSave",
+						"onType"
+					],
+					"default": "onType",
+					"description": "Whether shellcheck is run on save or on type."
+				},
+				"shellcheck.exclude": {
+					"type": "array",
+					"default": [],
+					"description": "Exclude types of warnings, for example [\"SC1090\"]."
+				},
+				"shellcheck.customArgs": {
+					"type": "array",
+					"default": [],
+					"description": "Custom arguments to shellcheck."
+				},
+				"shellcheck.ignorePatterns": {
+					"type": "object",
+					"default": {},
+					"description": "Mathing files and directories are being ignored by shellcheck. Glob patterns are interpreted relative to the workspace's root folder."
+				},
+				"shellcheck.useWorkspaceRootAsCwd": {
+					"type": "boolean",
+					"default": false,
+					"description": "Whether to use the workspace root directory as the current working directory when launching ShellCheck."
+				},
+				"shellcheck.useWSL": {
+					"type": "boolean",
+					"default": false,
+					"description": "Whether to use a shellcheck installation in the Windows Subsystem for Linux."
+				},
+				"shellcheck.disableVersionCheck": {
+					"type": [
+						"boolean",
+						"null"
+					],
+					"default": null,
+					"description": "Whether to diable shellcheck binary version check, which prompt for updating when outdated version found."
+				}
+			}
+		}
+	},
+	"scripts": {
+		"vscode:prepublish": "tsc -p ./",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test": "node ./node_modules/vscode/bin/test",
+		"tslint": "tslint --project tsconfig.json"
+	},
+	"dependencies": {
+		"lodash": "^4.17.10",
+		"minimatch": "^3.0.4",
+		"semver": "^5.5.0"
+	},
+	"devDependencies": {
+		"@types/lodash": "^4.14.109",
+		"@types/minimatch": "^3.0.3",
+		"@types/mocha": "^2.2.48",
+		"@types/node": "^6.0.109",
+		"@types/semver": "^5.5.0",
+		"mocha": "^5.2.0",
+		"tslint": "^5.11.0",
+		"typescript": "^3.0.3",
+		"vscode": "^1.1.21"
+	},
+	"__metadata": {
+		"id": "f95d8fff-f70a-4ae5-bb06-5c47ddbc8fc6",
+		"publisherId": "04757770-dd50-443e-aae4-e1c7cf9c24f5",
+		"publisherDisplayName": "Timon Wong"
+	}
+}

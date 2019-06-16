@@ -1,0 +1,9 @@
+[2019-06-10 16:55:29.171] [cli] [info] main {"_":[],"diff":false,"add":false,"goto":false,"new-window":false,"reuse-window":false,"wait":false,"version":false,"help":false,"list-extensions":false,"show-versions":false,"verbose":false,"status":false,"prof-modules":false,"prof-startup":false,"disable-extensions":false,"disable-gpu":false,"logExtensionHostCommunication":false,"skip-getting-started":false,"skip-release-notes":false,"sticky-quickopen":false,"disable-restore-windows":false,"disable-telemetry":false,"disable-updates":false,"disable-crash-reporter":false,"skip-add-to-recently-opened":false,"unity-launch":false,"open-url":false,"nolazy":false,"issue":false,"file-write":false,"file-chmod":false,"driver-verbose":false,"force":false,"prof-code-loading":false,"nodeless":false,"install-extension":"ms-python.python"}
+[2019-06-10 16:55:29.213] [cli] [info] Scanned user extensions: 24
+[2019-06-10 16:55:30.089] [cli] [info] Installing extension: ms-python.python
+[2019-06-10 16:55:30.108] [cli] [info] Scanned user extensions: 24
+[2019-06-10 16:55:41.090] [cli] [info] Downloaded extension: ms-python.python /tmp/f4f62169-d973-4c36-b4ca-4fce50dfa117
+[2019-06-10 16:55:42.043] [cli] [info] Extracted extension to /home/yosh/.vscode-oss/extensions/.ms-python.python-2019.5.18875: ms-python.python
+[2019-06-10 16:55:42.043] [cli] [info] Renamed to /home/yosh/.vscode-oss/extensions/ms-python.python-2019.5.18875
+[2019-06-10 16:55:42.046] [cli] [info] Installation completed. ms-python.python
+[2019-06-10 16:55:42.106] [cli] [info] Extensions installed successfully: ms-python.python

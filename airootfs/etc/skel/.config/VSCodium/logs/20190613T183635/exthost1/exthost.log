@@ -1,0 +1,28 @@
+[2019-06-13 18:36:40.077] [exthost] [info] extension host started
+[2019-06-13 18:36:40.175] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-13 18:36:40.175] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/vscodium-bin/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-13 18:36:40.187] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-13 18:36:40.187] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/vscodium-bin/resources/app/extensions/emmet/dist/extension
+[2019-06-13 18:36:40.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-06-13 18:36:40.235] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/vscodium-bin/resources/app/extensions/git/dist/main
+[2019-06-13 18:36:40.390] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-06-13 18:36:40.390] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/vscodium-bin/resources/app/extensions/merge-conflict/dist/extension
+[2019-06-13 18:36:40.398] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-06-13 18:36:40.398] [exthost] [info] ExtensionService#loadCommonJSModule /home/yosh/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-06-13 18:36:41.049] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-06-13 18:36:41.049] [exthost] [info] ExtensionService#loadCommonJSModule /home/yosh/.vscode-oss/extensions/eamodio.gitlens-9.8.1/dist/extension
+[2019-06-13 18:36:41.303] [exthost] [info] ExtensionService#_doActivateExtension huizhou.githd {"startup":true,"activationEvent":"*"}
+[2019-06-13 18:36:41.303] [exthost] [info] ExtensionService#loadCommonJSModule /home/yosh/.vscode-oss/extensions/huizhou.githd-2.1.0/out/src/extension
+[2019-06-13 18:36:41.424] [exthost] [info] ExtensionService#_doActivateExtension kevinkyang.auto-comment-blocks {"startup":true,"activationEvent":"*"}
+[2019-06-13 18:36:41.424] [exthost] [info] ExtensionService#loadCommonJSModule /home/yosh/.vscode-oss/extensions/kevinkyang.auto-comment-blocks-1.0.1/out/src/extension
+[2019-06-13 18:36:41.449] [exthost] [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode {"startup":true,"activationEvent":"*"}
+[2019-06-13 18:36:41.449] [exthost] [info] ExtensionService#loadCommonJSModule /home/yosh/.vscode-oss/extensions/monokai.theme-monokai-pro-vscode-1.1.13/js/main
+[2019-06-13 18:36:41.476] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"activationEvent":"*"}
+[2019-06-13 18:36:41.476] [exthost] [info] ExtensionService#loadCommonJSModule /home/yosh/.vscode-oss/extensions/ms-vscode.cpptools-0.23.1/dist/main
+[2019-06-13 18:36:41.808] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"activationEvent":"*"}
+[2019-06-13 18:36:41.814] [exthost] [info] ExtensionService#loadCommonJSModule /home/yosh/.vscode-oss/extensions/oderwat.indent-rainbow-7.4.0/out/extension
+[2019-06-13 18:36:41.872] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"activationEvent":"*"}
+[2019-06-13 18:36:41.872] [exthost] [info] ExtensionService#loadCommonJSModule /home/yosh/.vscode-oss/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2019-06-13 18:36:41.895] [exthost] [info] eager extensions activated
+[2019-06-13 18:36:42.702] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-06-13 18:36:42.702] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/vscodium-bin/resources/app/extensions/html-language-features/client/dist/htmlMain

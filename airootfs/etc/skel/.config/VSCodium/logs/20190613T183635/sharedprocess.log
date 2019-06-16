@@ -1,0 +1,15 @@
+[2019-06-13 18:36:40.096] [sharedprocess] [info] main {"machineId":"040d772664656ab7851e8cdf68adf06e36fcab21848db409eb966fb017120b25"}
+[2019-06-13 18:36:40.289] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-13 18:36:40.336] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 18:36:40.352] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-13 18:36:40.382] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 18:36:40.506] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-13 18:36:40.515] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 18:36:41.192] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-13 18:36:42.893] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2019-06-13 18:36:43.018] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-13 18:36:44.223] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /tmp/6f73909d-f5df-4b54-ad43-775c64d90285
+[2019-06-13 18:36:46.035] [sharedprocess] [info] Extracted extension to /home/yosh/.vscode-oss/extensions/.eamodio.gitlens-9.8.2: eamodio.gitlens
+[2019-06-13 18:36:46.036] [sharedprocess] [info] Renamed to /home/yosh/.vscode-oss/extensions/eamodio.gitlens-9.8.2
+[2019-06-13 18:36:46.048] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2019-06-13 18:36:47.041] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens

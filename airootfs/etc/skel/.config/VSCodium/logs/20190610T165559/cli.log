@@ -1,0 +1,9 @@
+[2019-06-10 16:55:59.281] [cli] [info] main {"_":[],"diff":false,"add":false,"goto":false,"new-window":false,"reuse-window":false,"wait":false,"version":false,"help":false,"list-extensions":false,"show-versions":false,"verbose":false,"status":false,"prof-modules":false,"prof-startup":false,"disable-extensions":false,"disable-gpu":false,"logExtensionHostCommunication":false,"skip-getting-started":false,"skip-release-notes":false,"sticky-quickopen":false,"disable-restore-windows":false,"disable-telemetry":false,"disable-updates":false,"disable-crash-reporter":false,"skip-add-to-recently-opened":false,"unity-launch":false,"open-url":false,"nolazy":false,"issue":false,"file-write":false,"file-chmod":false,"driver-verbose":false,"force":false,"prof-code-loading":false,"nodeless":false,"install-extension":"shd101wyy.markdown-preview-enhanced"}
+[2019-06-10 16:55:59.325] [cli] [info] Scanned user extensions: 29
+[2019-06-10 16:56:00.183] [cli] [info] Installing extension: shd101wyy.markdown-preview-enhanced
+[2019-06-10 16:56:00.205] [cli] [info] Scanned user extensions: 29
+[2019-06-10 16:56:20.503] [cli] [info] Downloaded extension: shd101wyy.markdown-preview-enhanced /tmp/46eef022-7cd2-4582-b998-72925e64bd55
+[2019-06-10 16:56:24.952] [cli] [info] Extracted extension to /home/yosh/.vscode-oss/extensions/.shd101wyy.markdown-preview-enhanced-0.4.1: shd101wyy.markdown-preview-enhanced
+[2019-06-10 16:56:24.953] [cli] [info] Renamed to /home/yosh/.vscode-oss/extensions/shd101wyy.markdown-preview-enhanced-0.4.1
+[2019-06-10 16:56:24.954] [cli] [info] Installation completed. shd101wyy.markdown-preview-enhanced
+[2019-06-10 16:56:25.271] [cli] [info] Extensions installed successfully: shd101wyy.markdown-preview-enhanced

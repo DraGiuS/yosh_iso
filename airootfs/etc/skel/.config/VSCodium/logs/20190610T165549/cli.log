@@ -1,0 +1,9 @@
+[2019-06-10 16:55:49.214] [cli] [info] main {"_":[],"diff":false,"add":false,"goto":false,"new-window":false,"reuse-window":false,"wait":false,"version":false,"help":false,"list-extensions":false,"show-versions":false,"verbose":false,"status":false,"prof-modules":false,"prof-startup":false,"disable-extensions":false,"disable-gpu":false,"logExtensionHostCommunication":false,"skip-getting-started":false,"skip-release-notes":false,"sticky-quickopen":false,"disable-restore-windows":false,"disable-telemetry":false,"disable-updates":false,"disable-crash-reporter":false,"skip-add-to-recently-opened":false,"unity-launch":false,"open-url":false,"nolazy":false,"issue":false,"file-write":false,"file-chmod":false,"driver-verbose":false,"force":false,"prof-code-loading":false,"nodeless":false,"install-extension":"DavidAnson.vscode-markdownlint"}
+[2019-06-10 16:55:49.260] [cli] [info] Scanned user extensions: 27
+[2019-06-10 16:55:50.047] [cli] [info] Installing extension: davidanson.vscode-markdownlint
+[2019-06-10 16:55:50.068] [cli] [info] Scanned user extensions: 27
+[2019-06-10 16:55:51.994] [cli] [info] Downloaded extension: davidanson.vscode-markdownlint /tmp/74e25df7-5e42-4a20-90e3-d1f02b5d92c1
+[2019-06-10 16:55:52.387] [cli] [info] Extracted extension to /home/yosh/.vscode-oss/extensions/.davidanson.vscode-markdownlint-0.27.0: davidanson.vscode-markdownlint
+[2019-06-10 16:55:52.387] [cli] [info] Renamed to /home/yosh/.vscode-oss/extensions/davidanson.vscode-markdownlint-0.27.0
+[2019-06-10 16:55:52.389] [cli] [info] Installation completed. davidanson.vscode-markdownlint
+[2019-06-10 16:55:52.441] [cli] [info] Extensions installed successfully: davidanson.vscode-markdownlint

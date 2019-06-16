@@ -1,0 +1,23 @@
+Looking for git in: git
+Using git 2.22.0 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/yosh/ctlosiso
+> git fetch
+> git status -z -u
+> git check-ignore -z --stdin
+> git show :pkglist.x86_64.txt
+> git ls-files --stage -- ./
+> git symbolic-ref --short HEAD
+> git rev-parse heads/openbox
+> git rev-parse --symbolic-full-name heads/openbox@{u}
+fatal: no such branch: 'heads/openbox'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse heads/openbox
+> git rev-parse --symbolic-full-name heads/openbox@{u}
+fatal: no such branch: 'heads/openbox'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

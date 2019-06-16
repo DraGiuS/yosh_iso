@@ -1,0 +1,9 @@
+[2019-06-10 16:56:25.574] [cli] [info] main {"_":[],"diff":false,"add":false,"goto":false,"new-window":false,"reuse-window":false,"wait":false,"version":false,"help":false,"list-extensions":false,"show-versions":false,"verbose":false,"status":false,"prof-modules":false,"prof-startup":false,"disable-extensions":false,"disable-gpu":false,"logExtensionHostCommunication":false,"skip-getting-started":false,"skip-release-notes":false,"sticky-quickopen":false,"disable-restore-windows":false,"disable-telemetry":false,"disable-updates":false,"disable-crash-reporter":false,"skip-add-to-recently-opened":false,"unity-launch":false,"open-url":false,"nolazy":false,"issue":false,"file-write":false,"file-chmod":false,"driver-verbose":false,"force":false,"prof-code-loading":false,"nodeless":false,"install-extension":"yzane.markdown-pdf"}
+[2019-06-10 16:56:25.619] [cli] [info] Scanned user extensions: 30
+[2019-06-10 16:56:26.260] [cli] [info] Installing extension: yzane.markdown-pdf
+[2019-06-10 16:56:26.280] [cli] [info] Scanned user extensions: 30
+[2019-06-10 16:56:37.066] [cli] [info] Downloaded extension: yzane.markdown-pdf /tmp/47815899-bfa2-4ebb-975d-5fb7a74063db
+[2019-06-10 16:56:39.713] [cli] [info] Extracted extension to /home/yosh/.vscode-oss/extensions/.yzane.markdown-pdf-1.2.0: yzane.markdown-pdf
+[2019-06-10 16:56:39.713] [cli] [info] Renamed to /home/yosh/.vscode-oss/extensions/yzane.markdown-pdf-1.2.0
+[2019-06-10 16:56:39.714] [cli] [info] Installation completed. yzane.markdown-pdf
+[2019-06-10 16:56:40.374] [cli] [info] Extensions installed successfully: yzane.markdown-pdf

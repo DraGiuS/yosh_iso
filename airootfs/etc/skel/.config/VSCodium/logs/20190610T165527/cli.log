@@ -1,0 +1,9 @@
+[2019-06-10 16:55:27.203] [cli] [info] main {"_":[],"diff":false,"add":false,"goto":false,"new-window":false,"reuse-window":false,"wait":false,"version":false,"help":false,"list-extensions":false,"show-versions":false,"verbose":false,"status":false,"prof-modules":false,"prof-startup":false,"disable-extensions":false,"disable-gpu":false,"logExtensionHostCommunication":false,"skip-getting-started":false,"skip-release-notes":false,"sticky-quickopen":false,"disable-restore-windows":false,"disable-telemetry":false,"disable-updates":false,"disable-crash-reporter":false,"skip-add-to-recently-opened":false,"unity-launch":false,"open-url":false,"nolazy":false,"issue":false,"file-write":false,"file-chmod":false,"driver-verbose":false,"force":false,"prof-code-loading":false,"nodeless":false,"install-extension":"monokai.theme-monokai-pro-vscode"}
+[2019-06-10 16:55:27.243] [cli] [info] Scanned user extensions: 23
+[2019-06-10 16:55:27.951] [cli] [info] Installing extension: monokai.theme-monokai-pro-vscode
+[2019-06-10 16:55:27.969] [cli] [info] Scanned user extensions: 23
+[2019-06-10 16:55:28.783] [cli] [info] Downloaded extension: monokai.theme-monokai-pro-vscode /tmp/810632c7-7f7d-4f6e-a63d-8573ddd8f9f4
+[2019-06-10 16:55:28.841] [cli] [info] Extracted extension to /home/yosh/.vscode-oss/extensions/.monokai.theme-monokai-pro-vscode-1.1.13: monokai.theme-monokai-pro-vscode
+[2019-06-10 16:55:28.842] [cli] [info] Renamed to /home/yosh/.vscode-oss/extensions/monokai.theme-monokai-pro-vscode-1.1.13
+[2019-06-10 16:55:28.842] [cli] [info] Installation completed. monokai.theme-monokai-pro-vscode
+[2019-06-10 16:55:28.896] [cli] [info] Extensions installed successfully: monokai.theme-monokai-pro-vscode
